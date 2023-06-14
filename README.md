@@ -56,7 +56,7 @@
               <div class="carousel-item">
                 <img src="iphone-14-pro-max-hero-photo.webp" class="d-block w-100" alt="zoro.jpg" height="500" width="50">
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item" style="text-align: center; margin-top: 100px;">
                 <div class="spinner-border" role="status">
                     <span class="visually-hidden">Loading...</span>
                   </div>
